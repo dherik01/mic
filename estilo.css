@@ -177,21 +177,7 @@ textarea{
 
 }
 
-.botao{
-    border: 0;
-  
-    
-}
 
-.botao a{
-    text-decoration: none;
-    padding: 10px 40px;
-    border: 2px;
-    border-radius: 50px;
-    background-color: black;
-    color: white;
-   
-}
 h5{
  text-align: center;
 }
