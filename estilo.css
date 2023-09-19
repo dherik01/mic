@@ -192,6 +192,9 @@ textarea{
     color: white;
    
 }
+h5{
+ text-align: center;
+}
 
 @media(min-width 800px max-width: 1280px){ /*nest hub max*/
     .background {
